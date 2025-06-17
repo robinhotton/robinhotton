@@ -1,84 +1,84 @@
-# 👋 Salut, moi c’est Robin HOTTON
+# 👋 Hi, I'm Robin HOTTON
 
-💡 Passionné par la transmission de connaissances, le Big Data & l’IA  
-📍 Basé vers Montpellier  
-📬 Email pro : rhotton@diginamic-formation.fr  
+💡 Passionate about knowledge sharing, Big Data & Artificial Intelligence  
+📍 Based near Montpellier, France  
+📬 Professional email: rhotton@diginamic-formation.fr  
 🔗 [LinkedIn](https://www.linkedin.com/in/robin-hotton/)  
 🖥️ [GitHub](https://github.com/robinhotton)  
 
 ---
 
-## 🚀 À propos de moi
+## 🚀 About Me
 
-Fort de **5 années d'études en informatique** et naturellement curieux, j’ai acquis une solide expertise technique qui me permet de transmettre mes connaissances avec clarté et enthousiasme.
+With **5 years of academic training in computer science** and a naturally curious mindset, I’ve built strong technical skills that allow me to share knowledge clearly and effectively.
 
-Aujourd’hui en **CDI chez Tecken**, suite à l’obtention de mon **titre RNCP niveau 7 (Bac+5)** chez **Diginamic**, j’occupe plusieurs rôles :
-- 👨‍💻 Lead Dev Python & Data Engineer Junior  
-- 👨‍🏫 Formateur pour adultes en Python, Big Data & documentation projet
+Currently employed full-time at **Tecken** after completing a **Level 7 RNCP Master's Degree (equivalent to Bac+5)** at **Diginamic**, I wear multiple hats:
+- 👨‍💻 Lead Python Developer & Junior Data Engineer  
+- 👨‍🏫 Instructor for adult learners in Python, Big Data & project documentation
 
-Rigoureux et orienté solution, je suis passionné par le **développement**, l’**analyse de données**, les **architectures distribuées**, la **création** et le **déploiement d’outils techniques et pédagogiques**.
-
----
-
-## 👥 Engagement & pédagogie
-
-- ✍️ Création de **supports de formation**  
-- 📚 Animation de **cours théoriques et pratiques**  
-- 🧑‍💼 Coordination de sessions et encadrement de projets  
+Detail-oriented and solution-driven, I’m passionate about **software development**, **data analysis**, **distributed architectures**, and creating and deploying both **technical and educational tools**.
 
 ---
 
-## 🧠 Compétences clés
+## 👥 Engagement & Teaching
 
-### 👨‍💻 Langages & Frameworks
+- ✍️ Designing and writing **training materials**  
+- 📚 Leading **theoretical and practical classes**  
+- 🧑‍💼 Coordinating sessions and mentoring group projects  
+
+
+---
+
+## 🎯 Current Focus
+
+I’m currently working on an innovative educational tool designed to enhance the learning experience for my students:
+
+### 📚 DigiLearn_IA
+A smart teaching assistant, integrated with our future LMS (**Chamilo**), designed to:
+- Assist students throughout their learning journey  
+- Answer their questions  
+- Guide them through their training paths  
+...all **without giving direct answers** to the exercises.
+
+The goal is to create an **AI-powered chatbot** focused on education—useful, supportive, and context-aware. A true **training copilot**.
+
+---
+
+## 🧠 Core Skills
+
+### 👨‍💻 Languages & Frameworks
 - **Python**
 - **FastAPI**, **SQLModel**, **Pandas**, **Matplotlib**...
 
 ### 📊 Big Data & ETL
 - **Hadoop**, **Spark**, **Kafka**, **Talend**, **Power BI**
-- **ETL / ELT** : Talend, Python
-- **SGBD** : MySQL/MariaDB, MongoDB, HBase, Cassandra
+- **ETL / ELT** with Talend and Python
+- **Databases**: MySQL/MariaDB, MongoDB, HBase, Cassandra
 
-### 🛠️ Méthodologies & Outils
+### 🛠️ Methodologies & Tools
 - **UML**, **Design Patterns**
 - **Docker**
 - **Git/GitHub**, **GitHub Projects**
 - **Agile / Scrum**, **Kanban**, **Jira**, **Confluence**
 
-### 📚 Gestion documentaire & projet
-- Recueil et analyse du besoin client
-- Définir une stratégie pour un SI
-- Rédaction de **CDC** (CDCF / CDCT) et **notes de cadrage**
-- **Management d’équipe** et **pilotage de projet**
-- Conception d'application informatique
+### 📚 Documentation & Project Management
+- Gathering and analyzing client requirements  
+- Defining IT system strategies  
+- Writing **specification documents** (CDCF / CDCT), scoping notes  
+- **Team management** and **project leadership**  
+- Designing software applications  
 
 ---
 
-## 🧩 Compétences annexes
+## 🧩 Additional Skills
 
-### 👨‍💻 Autres langages & frameworks
+### 👨‍💻 Other Languages & Frameworks
 - **Java**, **Spring Boot**
-- **C**
 - **HTML**, **CSS**, **JavaScript**, **React**
 
-### 🤖 IA & Machine Learning
+### 🤖 AI & Machine Learning
 - **Streamlit**, **Scikit-learn**, **TensorFlow**
-- APIs de LLMs : **OpenAI**, **Mistral**, **La Plateforme**, etc.
+- LLM APIs: **OpenAI**, **Mistral**, **La Plateforme**, etc.
 
-### 🛠️ Écosystèmes Big Data
+### 🛠️ Big Data Ecosystem
 - **ElasticSearch**, **Logstash**, **Kibana** (ELK Stack)
-
----
-
-## 🎯 Objectif actuel
-
-Je travaille actuellement sur un outil pédagogique innovant pour améliorer l’expérience d’apprentissage de mes élèves :
-
-### 📚 DigiLearn_IA
-Un assistant pédagogique intelligent, connecté à notre futur LMS (**Chamilo**), capable :
-- d’accompagner les élèves dans leur apprentissage,
-- de répondre à leurs questions,
-- de les guider dans leur parcours,  
-...tout **sans donner directement les réponses** aux exercices.
-
-L’idée est de créer un **chatbot IA** orienté pédagogie, utile, bienveillant et contextuel. Un véritable copilote de formation.
